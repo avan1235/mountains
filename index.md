@@ -1,3 +1,8 @@
+---
+title: Wycieczki w Góry
+permalink: /index.html
+---
+
 Wycieczki w Góry
 
 - [2023](./2023): Żywiec &rarr; Sucha Beskidzka
