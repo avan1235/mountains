@@ -1,5 +1,5 @@
 ---
-title: Wycieczki w Góry
+title: Historia
 permalink: /index.html
 ---
 
