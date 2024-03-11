@@ -1,7 +1,6 @@
 ---
 title: Historia
 permalink: /index.html
-main: true
 ---
 
 Sprawdzone trasy:
