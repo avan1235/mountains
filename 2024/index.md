@@ -10,7 +10,7 @@ permalink: /2024/index.html
 
 ## Dojazdy (02.05.2024) Warszawa → Wisła
 
-| Co  | Skad  | Godzina  | Dokąd  | Godzina  |
+| Pociąg  | Skad  | Godzina  | Dokąd  | Godzina  |
 |---|---|---|---|---|
 | EIP 5400  |  Warszawa Centralna  | 10:42 | Katowice  | 13:23 |
 | Koleje Śląskie  | Katowice    | 13:36 | Wisła Uzdrowisko | 15:15 |
@@ -80,7 +80,7 @@ Schronisko PTTK na Stożku
 
 ## Powrót (05.05.2024) Wisła → Warszawa
 
-| Co  | Skad  | Godzina  | Dokąd  | Godzina  |
+| Pociąg  | Skad  | Godzina  | Dokąd  | Godzina  |
 |---|---|---|---|---|
 | IC 4560  |  Wisła Uzdrowisko   | 12:17 | Warszawa Centralna | 17:12 |
 
