@@ -5,8 +5,8 @@ permalink: /2024/index.html
 
 # Wisła → Wisła
 
-<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3tpfg.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3tpfg?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa przez: Wisła | mapa-turystyczna.pl</a></div>
-[Przejdź do mapy](https://mapa-turystyczna.pl/route/3tpfg)
+<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3tpi8.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3tpi8?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa przez: Wisła | mapa-turystyczna.pl</a></div>
+[Przejdź do mapy](https://mapa-turystyczna.pl/route/3tpi8)
 
 ## Dojazdy (02.05.2024) Warszawa → Wisła
 
