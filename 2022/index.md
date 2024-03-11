@@ -3,30 +3,30 @@ title: Góry 2022
 permalink: /2022/index.html
 ---
 
-# Ustroń &rarr; Bielsko-Biała
+# Ustroń → Bielsko-Biała
 
 <div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/4lvt.html" height="680" frameborder="0" style="width:100%;border:0;"></iframe><a href="https://mapa-turystyczna.pl/route/4lvt?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa: Ustroń – Bielsko-Biała, Olszówka | mapa-turystyczna.pl</a></div>
 [Przejdź do mapy](https://mapa-turystyczna.pl/route/4lvt)
 
 ## Dojazdy (29.04.2022)
 
-### Warszawa &rarr; Ustroń
+### Warszawa → Ustroń
 
-#### Warszawa &rarr; Katowice
-1. IC110: 17:20 &rarr; 20:18
-2. IC116: 4:55 &rarr; 7:55
+#### Warszawa → Katowice
+1. IC110: 17:20 → 20:18
+2. IC116: 4:55 → 7:55
 
 ### Katowice - nocleg
 Wstępnie zarezerwowany (rezygnacja najpóźniej 25.04) nocleg w hostelu [Rynek 7](https://www.booking.com/hotel/pl/rynek-7.pl.html), pokoje 3 i 4-osobowy ze śniadaniem - 333 zł.
 
-#### Katowice &rarr; Ustroń
-1. Koleje Śląskie: 8:45 &rarr; 10:06
+#### Katowice → Ustroń
+1. Koleje Śląskie: 8:45 → 10:06
 
-### Bielsko-Biała &rarr; Warszawa
+### Bielsko-Biała → Warszawa
 
 #### Bezpośrednie połaczenia
-1. IC4160: 16:42 &rarr; 21:44
-2. IC44100: 18:10 &rarr; 23:03
+1. IC4160: 16:42 → 21:44
+2. IC44100: 18:10 → 23:03
 
 ## Dzień 1 (30.04.2022)
 
