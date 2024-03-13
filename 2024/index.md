@@ -35,7 +35,7 @@ Schronisko PTTK Na Stożku
 - telefon noclegu: +48 603 414 603
 - pokoje po 80 zł (3-8 osobowe)
 
-## Dzień 2 (03.05.2024): Schronisko PTTK Na Stożku → Slavíč, turisticka chata
+## Dzień 2 (03.05.2024): Schronisko PTTK Na Stożku → Schronisko PTTK Na Stożku
 
 ### Trasa
 <div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3onn7.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3onn7?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa: Schronisko PTTK na Stożku – Schronisko PTTK na Stożku | mapa-turystyczna.pl</a></div>
@@ -52,7 +52,7 @@ Schronisko PTTK Na Stożku
 - telefon noclegu: +48 603 414 603
 - pokoje po 80 zł (3-8 osobowe)
 
-## Dzień 3 (04.05.2024): Slavíč, turisticka chata → Schronisko PTTK na Stożku
+## Dzień 3 (04.05.2024): Schronisko PTTK Na Stożku → Schronisko PTTK na Stożku
 
 ### Trasa
 <div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3onnw.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3onnw?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa: Schronisko PTTK na Stożku – Schronisko PTTK na Stożku | mapa-turystyczna.pl</a></div>
