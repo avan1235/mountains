@@ -33,7 +33,7 @@ Schronisko PTTK Na Stożku
 ### Uwagi
 - [strona noclegu](https://stozek.com.pl/)
 - telefon noclegu: +48 603 414 603
-- pokoje po 80 zł (3-8 osobowe)
+- pokoje po 90 zł (3-8 osobowe)
 
 ## Dzień 2 (03.05.2024): Schronisko PTTK Na Stożku → Schronisko PTTK Na Stożku
 
@@ -50,7 +50,7 @@ Schronisko PTTK Na Stożku
 ### Uwagi
 - [strona noclegu](https://stozek.com.pl/)
 - telefon noclegu: +48 603 414 603
-- pokoje po 80 zł (3-8 osobowe)
+- pokoje po 90 zł (3-8 osobowe)
 
 ## Dzień 3 (04.05.2024): Schronisko PTTK Na Stożku → Schronisko PTTK na Stożku
 
@@ -67,7 +67,7 @@ Schronisko PTTK Na Stożku
 ### Uwagi
 - [strona noclegu](https://stozek.com.pl/)
 - telefon noclegu: +48 603 414 603
-- pokoje po 80 zł (3-8 osobowe)
+- pokoje po 90 zł (3-8 osobowe)
 
 ## Dzień 4 (05.05.2024): Schronisko PTTK na Stożku → Wisła
 
@@ -113,7 +113,7 @@ Schronisko PTTK Na Stożku
 ### Uwagi
 - [strona noclegu](https://stozek.com.pl/)
 - telefon noclegu: +48 603 414 603
-- pokoje po 80 zł (3-8 osobowe)
+- pokoje po 90 zł (3-8 osobowe)
 
 ## Dzień 2 (03.05.2024): Schronisko PTTK Na Stożku → Slavíč, turisticka chata
 
@@ -149,7 +149,7 @@ Schronisko PTTK na Stożku
 ### Uwagi
 - [strona noclegu](https://stozek.com.pl/)
 - telefon noclegu: +48 603 414 603
-- pokoje po 80 zł (3-8 osobowe)
+- pokoje po 90 zł (3-8 osobowe)
 
 ## Dzień 4 (05.05.2024): Schronisko PTTK na Stożku → Wisła
 
