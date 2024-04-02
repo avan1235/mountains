@@ -10,7 +10,7 @@ permalink: /2024/index.html
 
 ## Dojazdy (02.05.2024) Warszawa → Wisła
 
-- EIP 5400:  Warszawa Centralna @ 10:42 → Katowice @ 13:23
+- EIP 5400:  Warszawa Centralna @ 10:55 → Katowice @ 13:20
 - Koleje Śląskie: Katowice @ 13:36 → Wisła Uzdrowisko @ 15:15
 
 ## Dzień 1 (02.05.2024): Wisła → Schronisko PTTK Na Stożku
