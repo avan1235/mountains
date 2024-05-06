@@ -5,8 +5,8 @@ permalink: /2024/index.html
 
 # Wisła → Wisła
 
-<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3aq44.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3aq44?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa z: Wisła, Dziechcinka | mapa-turystyczna.pl</a></div>
-[Przejdź do mapy](https://mapa-turystyczna.pl/route/3aq44)
+<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3aiiu.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3aiiu?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa z: Wisła, Dziechcinka | mapa-turystyczna.pl</a></div>
+[Przejdź do mapy](https://mapa-turystyczna.pl/route/3aiiu)
 
 ## Dojazdy (02.05.2024) Warszawa → Wisła
 
@@ -68,8 +68,8 @@ Schronisko PTTK Na Stożku
 ## Dzień 4 (05.05.2024): Schronisko PTTK na Stożku → Wisła
 
 ### Trasa
-<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3aq4f.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3aq4f?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa z: Schronisko PTTK na Stożku | mapa-turystyczna.pl</a></div>
-[Przejdź do mapy](https://mapa-turystyczna.pl/route/3aq4f)
+<div style="max-width:600px;overflow:hidden;margin:0 auto;min-width:300px;"><iframe src="https://mapa-turystyczna.pl/map/widget/route/h1l0p1/3aiix.html" height="680" style="width:100%;border:0;" loading="lazy"></iframe><a href="https://mapa-turystyczna.pl/route/3aiix?utm_source=external_web&amp;utm_medium=widget&amp;utm_campaign=route_widget" target="_blank" rel="noopener" style="color:#999;padding:7px 0;font-size: 13px;font-family:Roboto,Arial,sans-serif;display: inline-block;">Trasa z: Schronisko PTTK na Stożku | mapa-turystyczna.pl</a></div>
+[Przejdź do mapy](https://mapa-turystyczna.pl/route/3aiix)
 
 ### Obiad
 - Wisła
