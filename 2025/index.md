@@ -43,8 +43,24 @@ permalink: /2025/index.html
 
 ### Widoki
 
-<iframe src="https://www.youtube.com/embed/ruN3m_znbmo"></iframe>
-<iframe src="https://www.youtube.com/embed/OwtqJTNOlGQ"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/ruN3m_znbmo?controls=1&modestbranding=1&rel=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/OwtqJTNOlGQ?controls=1&modestbranding=1&rel=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## 04.06.2024: Szklarska Poręba → Szklarska Poręba
 
@@ -57,8 +73,24 @@ permalink: /2025/index.html
 
 ### Widoki
 
-<iframe src="https://www.youtube.com/embed/pzZ6RFMpg-8"></iframe>
-<iframe src="https://www.youtube.com/embed/vRy9omEsPzQ"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/pzZ6RFMpg-8?controls=1&modestbranding=1&rel=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/vRy9omEsPzQ?controls=1&modestbranding=1&rel=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Autorzy
 
