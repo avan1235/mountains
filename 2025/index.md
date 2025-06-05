@@ -41,6 +41,11 @@ permalink: /2025/index.html
 ### Obiadokolacja
 - Hotel Bergo
 
+### Widoki
+
+<iframe src="https://www.youtube.com/embed/ruN3m_znbmo"></iframe>
+<iframe src="https://www.youtube.com/embed/OwtqJTNOlGQ"></iframe>
+
 ## 04.06.2024: Szklarska Poręba → Szklarska Poręba
 
 ### Trasa
@@ -49,6 +54,11 @@ permalink: /2025/index.html
 
 ### Obiadokolacja
 - Hotel Bergo
+
+### Widoki
+
+<iframe src="https://www.youtube.com/embed/pzZ6RFMpg-8"></iframe>
+<iframe src="https://www.youtube.com/embed/vRy9omEsPzQ"></iframe>
 
 ## Autorzy
 
