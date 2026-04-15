@@ -30,7 +30,7 @@ permalink: /2026/index.html
 [Przejdź do mapy](https://mapa-turystyczna.pl/route/1zi8v)
 
 ### Uwagi
-- możliwość skrócenia trasy przy Słoneczniku
+- możliwość skrócenia trasy
 
 ## Autorzy
 
